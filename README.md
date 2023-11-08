@@ -1,9 +1,6 @@
-# Laravel-Enviroment-setup
-
-
 # PHP & Laravel Developer's Environment Setup
 
-> #### Essential Softwares:
+> #### Essential Software Source:
 
 > Note: If you have any php binary file on C drive then delete that.
 
@@ -19,7 +16,7 @@
 4. Git ( Download Link: https://git-scm.com/downloads )
 5. Visual Studio Code (Free Code Editor) ( Download Link: https://code.visualstudio.com/download )
 
-> Note: As `PHPStorm` is a paid IDE so you can use its 30 Days trial version. After that you can use another email address for the next 30 Days. By repeating this process you can use `PHPStrom` for free when you are in your learning phase.
+> Note: As `PHPStorm` is a paid IDE you can use its 30 Days trial version. After that, you can use another email address for the next 30 Days. By repeating this process you can use `PHPStrom` for free when you are in your learning phase.
 
 6. PHPStorm (Paid Code Editor) ( Download Link: https://www.jetbrains.com/phpstorm/download )
 
@@ -33,7 +30,7 @@
 
 > ### VS Code Extensions:
 
-> Note: If you don't want to install the extentions from No. 4 to 15 one by one, then you can just install this `Laravel Extension Pack` extension which will also install all of those plugins as well.
+> Note: If you don't want to install the extensions from No. 4 to 15 one by one, then you can just install this `Laravel Extension Pack` extension which will also install all of those plugins as well.
 
 | SL No: | Plugins                                     |
 | ------ | ------------------------------------------- |
@@ -46,8 +43,8 @@
 | 7      | Laravel Extra Intellisense                  |
 | 8      | Laravel goto view                           |
 | 9      | Laravel Blade Spacer                        |
-| 10     | laravel-jump-controller                     |
-| 11     | laravel-goto-components                     |
+| 10     | Laravel-jump-controller                     |
+| 11     | Laravel-goto-components                     |
 | 12     | Laravel Blade formatter                     |
 | 13     | Laravel Create View                         |
 | 14     | Laravel Blade Wrapper                       |
@@ -68,7 +65,6 @@
 Github base: https://github.com/drknzz/GitHub-Achievements
 
 
-
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"/>
 
-*******************Let's build something Amazing **************************************
+**************************************Let's build something Amazing **************************************
